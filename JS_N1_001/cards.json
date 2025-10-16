@@ -2,12 +2,12 @@
     "pairs": [
         {
             "id": 0,
-            "imageUrl": "https://tucao-ila.github.io/word-memory-3/JS_N1_002/card1.png",
+            "imageUrl": "https://tucao-ila.github.io/word-memory-3/JS_N1_001/card1.png",
             "audioUrl": "https://tucao-ila.github.io/word-memory-3/JS_N1_001/audio1.mp3"
         },
         {
             "id": 1,
-            "imageUrl": "https://tucao-ila.github.io/word-memory-3/JS_N1_002/card2.png",
+            "imageUrl": "https://tucao-ila.github.io/word-memory-3/JS_N1_001/card2.png",
             "audioUrl": "https://tucao-ila.github.io/word-memory-3/JS_N1_001/audio2.mp3"
         },
         {
@@ -27,3 +27,4 @@
         }
     ]
 }
+
